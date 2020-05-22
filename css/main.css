@@ -2159,6 +2159,14 @@ body {
 	.section-title p br {
 		display: none
 	}
+	.podcasts{
+		width: "230";
+	}
+
+	.newsletter{
+		width: "280";
+		height: "120";
+	}
 }
 
 .primary-btn {
@@ -2317,6 +2325,14 @@ body {
 @media (max-width: 768px) {
 	.story-content {
 		text-align: center
+	}
+	.podcasts{
+		width: "230";
+	}
+
+	.newsletter{
+		width: "280";
+		height: "120";
 	}
 }
 
@@ -2532,6 +2548,15 @@ div.single-feature :hover{
 	.faq-content {
 		text-align: center
 	}
+
+	.podcasts{
+		width: "230";
+	}
+
+	.newsletter{
+		width: "280";
+		height: "120";
+	}
 }
 
 .single-faq {
@@ -2679,6 +2704,14 @@ footer .footer-nav li a:hover {
 @media (max-width: 767px) {
 	.footer-social {
 		margin-top: 10px
+	}
+	.podcasts{
+		width: "230";
+	}
+
+	.newsletter{
+		width: "280";
+		height: "120";
 	}
 }
 
